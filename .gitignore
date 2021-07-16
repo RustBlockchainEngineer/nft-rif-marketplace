@@ -1,0 +1,10 @@
+node_modules/
+build/
+types/
+coverage/
+coverage.json
+ERC721SimplePlacementsV1Data.json
+RNSSimplePlacementsV1Data.json
+ProxyAdminData.json
+ProxyFactoryData.json
+.secret
